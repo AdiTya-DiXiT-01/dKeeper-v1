@@ -1,6 +1,11 @@
 # dkeeper
 
-Welcome to your new dkeeper project and to the internet computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
+Welcome to your new dkeeper project and to the internet computer development community. 
+1. Decentralized Note Keeper: Our app leverages the Internet Computer platform, using Motoko as the backend language and React for the frontend. It provides a decentralized solution for users to securely store and access their personal notes.
+
+2. Enhanced Security: With the decentralized architecture, user data is stored on the Internet Computer, ensuring high levels of security and privacy. By utilizing Motoko's capabilities, we implement robust encryption and access control measures to protect user information.
+
+3. Seamless User Experience: The React frontend offers a modern and intuitive interface, allowing users to create, view, and manage their notes effortlessly. The app's decentralized nature ensures data availability and accessibility from anywhere, without relying on centralized servers.
 
 To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
 
